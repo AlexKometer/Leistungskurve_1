@@ -50,3 +50,7 @@ This project also requires `numpy` and `matplotlib`. Instructions to install the
 To execute the project and generate the power curve graph, run:
 ```bash
 python main.py
+```
+
+
+
