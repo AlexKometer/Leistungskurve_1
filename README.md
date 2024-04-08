@@ -5,7 +5,7 @@ This project analyzes power output data from the `activity.csv` file and generat
 ## Project Structure
 
 - `main.py`: The main script that reads the data, sorts it using the bubble sort algorithm, and generates a power curve graph.
-- `sort.py`: Contains the implementation of the bubble sort algorithm used to sort power data from High to low.
+- `sort.py`: Contains the implementation of the bubble sort algorithm used to sort power data.
 - `load_data.py`: A utility script to load data from a CSV file into a NumPy array.
 - `activity.csv`: The CSV file containing power output data. (Note: This file must be in the same directory as the scripts for the project to function correctly.)
 
@@ -20,6 +20,33 @@ This project also requires `numpy` and `matplotlib`. Instructions to install the
 ### Setup
 
 1. Clone the repository to your local machine:
+    ```bash
+    git clone <repository-url>
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd <project-directory>
+    ```
+3. Create a virtual environment:
+    ```bash
+    python3 -m venv venv
+    ```
+4. Activate the virtual environment:
+    - On Windows:
+        ```bash
+        .\venv\Scripts\activate
+        ```
+    - On macOS/Linux:
+        ```bash
+        source venv/bin/activate
+        ```
+5. Install the required packages:
+    ```bash
+    pip install numpy matplotlib
+    ```
 
+## Running the Project
+
+To execute the project and generate the power curve graph, run:
 ```bash
-git clone (https://github.com/AlexKometer/Leistungskurve_1)
+python main.py
