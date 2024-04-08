@@ -1,1 +1,4 @@
-#Requirements
+Requirements:
+  - Numpy (pip install numpy)
+  - Matplotlib (pip install matplotlib)
+  - OS
