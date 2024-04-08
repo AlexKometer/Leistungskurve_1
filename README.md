@@ -51,6 +51,8 @@ To execute the project and generate the power curve graph, run:
 ```bash
 python main.py
 ```
+
+![Plot](https://github.com/AlexKometer/Leistungskurve_1/blob/main/power_curve.png)
 ## Autors: Georg Sagmeister, Kometer Alexander
 
 
