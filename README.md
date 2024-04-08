@@ -22,4 +22,4 @@ This project also requires `numpy` and `matplotlib`. Instructions to install the
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/AlexKometer/Leistungskurve_1)
