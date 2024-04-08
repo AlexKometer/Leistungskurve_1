@@ -51,6 +51,6 @@ To execute the project and generate the power curve graph, run:
 ```bash
 python main.py
 ```
-
+# Autors: Georg Sagmeister, Kometer Alexander
 
 
