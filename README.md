@@ -5,7 +5,7 @@ This project analyzes power output data from the `activity.csv` file and generat
 ## Project Structure
 
 - `main.py`: The main script that reads the data, sorts it using the bubble sort algorithm, and generates a power curve graph.
-- `sort.py`: Contains the implementation of the bubble sort algorithm used to sort power data.
+- `sort.py`: Contains the implementation of the bubble sort algorithm used to sort power data from High to low.
 - `load_data.py`: A utility script to load data from a CSV file into a NumPy array.
 - `activity.csv`: The CSV file containing power output data. (Note: This file must be in the same directory as the scripts for the project to function correctly.)
 
