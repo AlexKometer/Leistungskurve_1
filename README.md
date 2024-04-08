@@ -54,5 +54,6 @@ python main.py
 
 ![Plot](https://github.com/AlexKometer/Leistungskurve_1/blob/main/power_curve.png)
 ## Autors: Georg Sagmeister, Kometer Alexander
+`the README.md file was generated with the use of OpenAI/ChatGPT4`
 
 
